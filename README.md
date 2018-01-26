@@ -5,4 +5,4 @@
 
 # About the process of building the models:
 # I built three models including SVM, GBC, logistic in scikit-learn package.
-# Also, I applied grid search to find the best parameter for the training dataset in order to get the highest accuracy. 
+# Also, I applied grid search to find the best parameters for the training dataset in order to get the highest accuracy. 
