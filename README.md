@@ -3,7 +3,7 @@
 ### About Travelers competition:
 1. Business problems: 
   * Our clients were expected to identify the policies that will cancel before the end of their term.
-  * Our missions was to understand the correlation between cancellation and features of policy holders.
+  * Our missions were to understand the correlation between cancellation and features of policyholders.
 2. Data sets: 
   * The data set is based on 4 years of property insurance policies from 2013 to 2016. 
   * There are roughly 7500 policies in the training data and each policy only has one observation. 
